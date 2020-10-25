@@ -414,3 +414,18 @@
   414  history > <Haoyu_Zhang>-history.txt
   415  history -> Haoyu_Zhang-history.txt
   416  history > Haoyu_Zhang-history.txt
+  417  git status
+  418  git remote -v
+  419  git checkout assignment
+  420  git add .
+  421  git commit -m "report edit in progress"
+  422  git push origin assignment
+  423  git status
+  424  exit
+  425  history -> Haoyu_Zhang-history.txt
+  426  history > Haoyu_Zhang-history.txt
+  427  history > history.txt
+  428  cd w203
+  429  cd w205
+  430  cd project-2*
+  431  history > Haoyu_Zhang-history.txt
