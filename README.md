@@ -67,5 +67,5 @@ Questions are answered in this project:
 
 ## Link to the report
 
-[Project Report](Report\Project_2.ipynb)\
-[Console history](Code\Haoyu_Zhang-history.txt)
+[Project Report](Report/Project_2.ipynb)\
+[Console history](Code/Haoyu_Zhang-history.txt)
