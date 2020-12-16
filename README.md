@@ -19,7 +19,7 @@ The original data was acquired by
 ```
 curl -L -o assessment-attempts-20180128-121051-nested.json https://goo.gl/ME6hjp`
 ```
-The data is contained in the file `assessment-attempts-20180128-121051-nested.json`, which is inclued in this repository. 
+The data is contained in the file `assessment-attempts-20180128-121051-nested.json` in the Data folder, which is inclued in this repository. 
 
 
 Questions are answered in this project:
@@ -38,7 +38,7 @@ Questions are answered in this project:
   - mids
   - spark
   - zookeeper_1  
-  (docker configuration file __docker-compose.yml__ is included)
+  (docker configuration file __docker-compose.yml__ is included in the Code foler)
   
   
 - Google cloud virtual machine 
@@ -67,5 +67,5 @@ Questions are answered in this project:
 
 ## Link to the report
 
-[Project Report](Project_2.ipynb)\
-[Console history](Haoyu_Zhang-history.txt)
+[Project Report](Report\Project_2.ipynb)\
+[Console history](Code\Haoyu_Zhang-history.txt)
